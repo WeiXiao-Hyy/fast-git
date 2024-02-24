@@ -1,1 +1,3 @@
 conflict
+
+solve_conflict!
